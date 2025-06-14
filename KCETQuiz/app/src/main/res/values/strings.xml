@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KCET Quiz</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="KanNote">NOTE: Kannada Language Exam is only for Horanadu and Gadinadu Kannadiga Candidates (Clauses c and d).\nMinimum Passing Marks are 12 out of 50.</string>
+    <string name="prcNote">NOTE: Practical Exam is only applicable to candidates who are eligible to claim the Agriculturist Quota.\nMinimum passing marks are 100 out of 200(50%).</string>
+    <string name="thank">THANK YOU</string>
+    <string name="donation">It takes days to collect the necessary resources and days to create an app. Your small donation (even ₹10) helps us to cover server costs. Please consider donating any amount you wish if this app has helped you.\nThanks in advance for your support!"</string>
+    <string name="wait">Please wait until the download is complete</string>
+    <string name="qpdf">You are viewing Question Paper only</string>
+    <string name="noNet">Please enable Internet to download the content</string>
+    <string name="noNetRetry">Please enable Internet to download the content and tap the \'RETRY\' Button</string>
+    <string name="err">Error Occurred, Please report in our Telegram Group</string>
+    <string name="errdwd">Failed to load the content. Would you like to download it again?</string>
+    <string name="apdf">You are viewing Key Answers only</string>
+</resources>

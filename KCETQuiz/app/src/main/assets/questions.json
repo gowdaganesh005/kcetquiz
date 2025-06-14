@@ -1,0 +1,329 @@
+{
+  "subjects": [
+    {
+      "subject": "Physics",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1) What is the SI unit of force?",
+          "options": ["Joule", "Newton", "Watt", "Pascal"],
+          "correctAnswer": "Newton"
+        },
+        {
+          "id": 2,
+          "text": "2) How many significant figures are there in 0.0023080?",
+          "options": ["7", "6", "5", "4"],
+          "correctAnswer": "5"
+        },
+        {
+          "id": 3,
+          "text": "3) What is the dimensional formula of momentum?",
+          "options": ["[M L T^-1]", "[M L T^-2]", "[M L^2 T^-2]", "[M L^2 T^-1]"],
+          "correctAnswer": "[M L T^-1]"
+        },
+        {
+          "id": 4,
+          "text": "4) A body is thrown vertically upwards. At the highest point, its velocity is?",
+          "options": ["Maximum", "Minimum but not zero", "Same as initial velocity", "Zero"],
+          "correctAnswer": "Zero"
+        },
+        {
+          "id": 5,
+          "text": "5) The work done by a force is zero when the angle between force and displacement is?",
+          "options": ["180°", "0°", "45°", "90°"],
+          "correctAnswer": "90°"
+        },
+        {
+          "id": 6,
+          "text": "6) The electric field due to a point charge Q at a distance r is?",
+          "options": ["kQ/r", "Q/(4πε0 r)", "kQ/r^2", "Q/(4πε0 r^2)"],
+          "correctAnswer": "kQ/r^2"
+        },
+        {
+          "id": 7,
+          "text": "7) In a series LCR circuit at resonance, the current is?",
+          "options": ["Zero", "Minimum", "Maximum", "Infinite"],
+          "correctAnswer": "Maximum"
+        },
+        {
+          "id": 8,
+          "text": "8) The SI unit of magnetic flux is?",
+          "options": ["Tesla", "Henry", "Gauss", "Weber"],
+          "correctAnswer": "Weber"
+        },
+        {
+          "id": 9,
+          "text": "9) The process in which a nucleus emits an alpha particle is called?",
+          "options": ["Beta decay", "Alpha decay", "Gamma decay", "Fission"],
+          "correctAnswer": "Alpha decay"
+        },
+        {
+          "id": 10,
+          "text": "10) The majority charge carriers in an n-type semiconductor are?",
+          "options": ["Holes", "Both", "None", "Electrons"],
+          "correctAnswer": "Electrons"
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "questions": [
+        {
+          "id": 11,
+          "text": "1) Which of the following has the highest electronegativity?",
+          "options": ["Fluorine", "Chlorine", "Oxygen", "Nitrogen"],
+          "correctAnswer": "Fluorine"
+        },
+        {
+          "id": 12,
+          "text": "2) The IUPAC name of CH3-CH(OH)-CH3 is?",
+          "options": ["Propane-2-ol", "Isopropyl alcohol", "Propan-2-ol", "2-Propanol"],
+          "correctAnswer": "Propan-2-ol"
+        },
+        {
+          "id": 13,
+          "text": "3) The molecular formula of benzene is?",
+          "options": ["C6H12", "C6H14", "C6H10", "C6H6"],
+          "correctAnswer": "C6H6"
+        },
+        {
+          "id": 14,
+          "text": "4) The number of moles in 22 g of CO2 is?",
+          "options": ["0.5", "1", "2", "0.25"],
+          "correctAnswer": "0.5"
+        },
+        {
+          "id": 15,
+          "text": "5) Which of the following is an intensive property?",
+          "options": ["Mass", "Density", "Volume", "Energy"],
+          "correctAnswer": "Density"
+        },
+        {
+          "id": 16,
+          "text": "6) Which of the following is a colligative property?",
+          "options": ["Viscosity", "Osmotic pressure", "Surface tension", "Refractive index"],
+          "correctAnswer": "Osmotic pressure"
+        },
+        {
+          "id": 17,
+          "text": "7) The rate constant for a first-order reaction is 0.0693 min^-1. The half-life is?",
+          "options": ["40 min", "30 min", "20 min", "10 min"],
+          "correctAnswer": "10 min"
+        },
+        {
+          "id": 18,
+          "text": "8) The coordination number of Na+ in NaCl crystal is?",
+          "options": ["8", "12", "6", "4"],
+          "correctAnswer": "6"
+        },
+        {
+          "id": 19,
+          "text": "9) Which of the following is not a method of purification of colloids?",
+          "options": ["Distillation", "Dialysis", "Ultrafiltration", "Electrophoresis"],
+          "correctAnswer": "Distillation"
+        },
+        {
+          "id": 20,
+          "text": "10) The functional group in alcohols is?",
+          "options": ["-COOH", "-CHO", "-NH2", "-OH"],
+          "correctAnswer": "-OH"
+        }
+      ]
+    },
+    {
+      "subject": "Maths",
+      "questions": [
+        {
+          "id": 21,
+          "text": "1) The number of elements in the power set of a set with 3 elements is?",
+          "options": ["8", "6", "4", "9"],
+          "correctAnswer": "8"
+        },
+        {
+          "id": 22,
+          "text": "2) The value of sin(π/3) is?",
+          "options": ["1/2", "√3/2", "√2/2", "1"],
+          "correctAnswer": "√3/2"
+        },
+        {
+          "id": 23,
+          "text": "3) The solution of the inequality 2x + 3 > 7 is?",
+          "options": ["x < 2", "x < 3", "x > 3", "x > 2"],
+          "correctAnswer": "x > 2"
+        },
+        {
+          "id": 24,
+          "text": "4) The nth term of an AP is given by a_n = 3 + 2n. The common difference is?",
+          "options": ["3", "2", "5", "1"],
+          "correctAnswer": "2"
+        },
+        {
+          "id": 25,
+          "text": "5) The distance between the points (1,2) and (4,6) is?",
+          "options": ["√5", "3", "5", "√13"],
+          "correctAnswer": "5"
+        },
+        {
+          "id": 26,
+          "text": "6) The determinant of the matrix [1 2; 3 4] is?",
+          "options": ["2", "-1", "1", "-2"],
+          "correctAnswer": "-2"
+        },
+        {
+          "id": 27,
+          "text": "7) The derivative of sin(x) with respect to x is?",
+          "options": ["-sin(x)", "tan(x", "cos(x)", "sec(x)"],
+          "correctAnswer": "cos(x)"
+        },
+        {
+          "id": 28,
+          "text": "8) The integral of 1/x dx is?",
+          "options": ["x^2/2 + C", "ln|x| + C", "e^x + C", "1/x + C"],
+          "correctAnswer": "ln|x| + C"
+        },
+        {
+          "id": 29,
+          "text": "9) The probability of getting a head in a fair coin toss is?",
+          "options": ["1/3", "1/4", "1", "1/2"],
+          "correctAnswer": "1/2"
+        },
+        {
+          "id": 30,
+          "text": "10) The number of ways to arrange 3 distinct books on a shelf is?",
+          "options": ["2", "1", "6", "3"],
+          "correctAnswer": "6"
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "questions": [
+        {
+          "id": 31,
+          "text": "1) The basic unit of classification is?",
+          "options": ["Species", "Genus", "Family", "Order"],
+          "correctAnswer": "Species"
+        },
+        {
+          "id": 32,
+          "text": "2) Which of the following is a monocotyledon?",
+          "options": ["Pea", "Wheat", "Gram", "Bean"],
+          "correctAnswer": "Wheat"
+        },
+        {
+          "id": 33,
+          "text": "3) The process by which plants lose water through leaves is?",
+          "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+          "correctAnswer": "Transpiration"
+        },
+        {
+          "id": 34,
+          "text": "4) The largest phylum in the animal kingdom is?",
+          "options": ["Mollusca", "Arthropoda", "Chordata", "Annelida"],
+          "correctAnswer": "Arthropoda"
+        },
+        {
+          "id": 35,
+          "text": "5) The tissue responsible for transport of water in plants is?",
+          "options": ["Phloem", "Xylem", "Parenchyma", "Collenchyma"],
+          "correctAnswer": "Xylem"
+        },
+        {
+          "id": 36,
+          "text": "6) The site of fertilization in humans is?",
+          "options": ["Uterus", "Ovary", "Fallopian tube", "Cervix"],
+          "correctAnswer": "Fallopian tube"
+        },
+        {
+          "id": 37,
+          "text": "7) Which hormone is responsible for ovulation?",
+          "options": ["FSH", "LH", "Estrogen", "Progesterone"],
+          "correctAnswer": "LH"
+        },
+        {
+          "id": 38,
+          "text": "8) The process of copying DNA is called?",
+          "options": ["Transcription", "Translation", "Mutation", "Replication"],
+          "correctAnswer": "Replication"
+        },
+        {
+          "id": 39,
+          "text": "9) The Hardy-Weinberg principle is related to?",
+          "options": ["Evolution", "Population genetics", "Ecology", "Taxonomy"],
+          "correctAnswer": "Population genetics"
+        },
+        {
+          "id": 40,
+          "text": "10) The greenhouse gas that is exclusively anthropogenic is?",
+          "options": ["CO2", "CFCs", "CH4", "N2O"],
+          "correctAnswer": "CFCs"
+        }
+      ]
+    },
+    {
+      "subject": "Kannada",
+      "questions": [
+        {
+          "id": 41,
+          "text": "೧) ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ನಾಮಪದ?",
+          "options": ["ಮನೆ", "ಹೋಗು", "ಚೆನ್ನಾಗಿ", "ಬೇಗ"],
+          "correctAnswer": "ಮನೆ"
+        },
+        {
+          "id": 42,
+          "text": "೨) ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಎಷ್ಟು ಸ್ವರಗಳಿವೆ?",
+          "options": ["14", "15", "13", "16"],
+          "correctAnswer": "13"
+        },
+        {
+          "id": 43,
+          "text": "೩) ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸರ್ವನಾಮ?",
+          "options": ["ಹೋಗು", "ಮನೆ", "ನಾನು", "ಚೆನ್ನಾಗಿ"],
+          "correctAnswer": "ನಾನು"
+        },
+        {
+          "id": 44,
+          "text": "೪) ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಕ್ರಿಯಾಪದ?",
+          "options": ["ಸುಂದರ", "ಮನೆ", "ಓಡು", "ಅವರು"],
+          "correctAnswer": "ಓಡು"
+        },
+        {
+          "id": 45,
+          "text": "೫) ಕನ್ನಡದಲ್ಲಿ ಮೊದಲ ಅಕ್ಷರ ಯಾವುದು?",
+          "options": ["ಆ", "ಇ", "ಈ", "ಅ"],
+          "correctAnswer": "ಅ"
+        },
+        {
+          "id": 46,
+          "text": "೬) \"ಪುಸ್ತಕ\" ಎಂಬ ಪದದ ಲಿಂಗ ಯಾವುದು?",
+          "options": ["ಸ್ತ್ರೀಲಿಂಗ", "ಪುಲ್ಲಿಂಗ", "ನಪುಂಸಕಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
+          "correctAnswer": "ನಪುಂಸಕಲಿಂಗ"
+        },
+        {
+          "id": 47,
+          "text": "೭) \"ಅವನು\" ಎಂಬ ಪದದ ಬಹುವಚನ ರೂಪ ಯಾವುದು?",
+          "options": ["ಅವನುಗಳು", "ಅವರು", "ಅವಳು", "ಅದು"],
+          "correctAnswer": "ಅವರು"
+        },
+        {
+          "id": 48,
+          "text": "೮) ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ವಿಶೇಷಣ?",
+          "options": ["ಮನೆ", "ಸುಂದರ", "ಹೋಗು", "ಬೇಗ"],
+          "correctAnswer": "ಸುಂದರ"
+        },
+        {
+          "id": 49,
+          "text": "೯) \"ನಾನು ಹೋಗುತ್ತೇನೆ\" ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ \"ಹೋಗುತ್ತೇನೆ\" ಯಾವ ರೂಪದಲ್ಲಿದೆ?",
+          "options": ["ವರ್ತಮಾನ ಕಾಲ", "ಭೂತಕಾಲ", "ಭವಿಷ್ಯತ್ ಕಾಲ", "ಆಜ್ಞಾರ್ಥ"],
+          "correctAnswer": "ವರ್ತಮಾನ ಕಾಲ"
+        },
+        {
+          "id": 50,
+          "text": "೧೦) ಕನ್ನಡದಲ್ಲಿ ಎಷ್ಟು ವಿಭಕ್ತಿಗಳಿವೆ?",
+          "options": ["8", "9", "10", "7"],
+          "correctAnswer": "7"
+        }
+      ]
+    }
+  ]
+}

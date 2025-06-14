@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Home Page"/>
+        <item
+            android:id="@+id/nav_telegram"
+            android:icon="@drawable/baseline_send_24"
+            android:title="Join our Telegram Group"/>
+        <item
+            android:id="@+id/nav_telegram2"
+            android:icon="@drawable/baseline_send_24"
+            android:title="Join our Telegram Group 2"/>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/baseline_share_24"
+            android:title="Share App"/>
+        <item
+            android:id="@+id/nav_dark"
+            android:icon="@drawable/baseline_light_mode_24"
+            android:title="Switch Dark/Light Mode"/>
+<!--        <item-->
+<!--            android:id="@+id/nav_donate"-->
+<!--            android:icon="@drawable/baseline_currency_rupee_24"-->
+<!--            android:title="Donate"/>-->
+        <item
+            android:id="@+id/puc"
+            android:icon="@drawable/baseline_get_app_24"
+            android:title="Get PUC Notes App on Play Store"/>
+        <item
+            android:id="@+id/nav_apps"
+            android:icon="@drawable/baseline_apps_24"
+            android:title="More Apps"/>
+        <item
+            android:id="@+id/delete"
+            android:icon="@drawable/baseline_delete_24"
+            android:title="Delete all attended quizzes"/>
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/baseline_privacy_tip_24"
+            android:title="Privacy Policy"/>
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:title="Log Out"/>
+    </group>
+
+</menu>
